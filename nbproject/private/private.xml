@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122216_create_stock_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122202_create_stock_order_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/resources/views/home.blade.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122244_create_sales_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122231_create_sales_order_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/app/User.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122108_create_products_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122138_create_supplier_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/app/Http/Controllers/UserController.php</file>
+            <file>file:/home/yaser/public_html/laravel/database/migrations/2017_06_17_122124_create_category_table.php</file>
+            <file>file:/home/yaser/public_html/laravel/routes/web.php</file>
+            <file>file:/home/yaser/public_html/laravel/app/Model/Users.php</file>
+        </group>
+    </open-files>
+</project-private>
